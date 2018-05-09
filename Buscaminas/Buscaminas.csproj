@@ -94,18 +94,6 @@
     <Folder Include="System\Windows\Forms\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\CaritaFeliz.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CaritaMuerta.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CaritaSorprendida.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CaritaBuscaminas.bmp" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="imgs\CaritaFeliz.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
